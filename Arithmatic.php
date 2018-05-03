@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Arithmatic Rules</title>
+<title>Arithmatic Test</title>
 </head>
 <body>
 
